@@ -12,6 +12,8 @@ I plan to collect announcements at [imperialwicket.com](http://imperialwicket.co
   - US-West (OR): ami-a5c25395 (deprecated)
 
 ####Asgard: Amazon Linux - 
-  - US-East (VA): ami-17761e7e
-  - US-West (OR): ami-1bfe6f2b
+  - US-East (VA): ami-0347336a
+  - US-East (VA): ami-17761e7e (deprecated)
+  - US-West (OR): ami-753fae45
+  - US-West (OR): ami-1bfe6f2b (deprecated)
 
