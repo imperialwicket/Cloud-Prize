@@ -5,9 +5,11 @@ I plan to collect announcements at [imperialwicket.com](http://imperialwicket.co
 
 ## AMI releases
 
-####Asgard: Ubuntu 12.04LTS - 
-  - US-East (VA): ami-f7e28b9e
-  - US-West (OR): ami-a5c25395
+####Asgard: Ubuntu 12.04LTS -
+  - US-East (VA): ami-11453178
+  - US-East (VA): ami-f7e28b9e (deprecated)
+  - US-West (OR): ami-233fae13
+  - US-West (OR): ami-a5c25395 (deprecated)
 
 ####Asgard: Amazon Linux - 
   - US-East (VA): ami-17761e7e
