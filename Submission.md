@@ -1,5 +1,3 @@
-Edit this page to describe your Submission.
-
 ## Which Categories Best Fit Your Submission and Why?
 
 Best Contribution to Operational Tools, Availability, and Manageability
@@ -10,15 +8,13 @@ I aim to reduce entry barriers and ease initial setup for new users. If we can c
 
 I am generating AMIs that aim to be deploy-ready with minimal alterations by an end user. The idea is that someone should not need to ssh into the server to get a pre-built war installed and running. 
 
-I plan to support these AMIs with puppet modules and potentially full manifests for generation. However, the core product (to date) is the output AMIs.
+I plan to support these AMIs with puppet modules and potentially full manifests for generation. However, the core focus is currently puppet modules for the specific software solution and pre-baked AMIs.
 
 ## Provide Links to Github Repo's for your Submission
 
 I plan to collect announcements at [imperialwicket.com](http://imperialwicket.com/tag/netflix). I will keep an updated list of the latest releases here, as well as information regarding related repositories.
 
 ### Asgard
-
-#### Puppet module
 
 [puppet-asgard](https://github.com/imperialwicket/puppet-asgard)
 
