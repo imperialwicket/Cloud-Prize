@@ -14,11 +14,17 @@ I plan to support these AMIs with puppet modules and potentially full manifests 
 
 ## Provide Links to Github Repo's for your Submission
 
-I plan to collect announcements at [imperialwicket.com](http://imperialwicket.com/tag/netflix). I will keep an updated list of the latest releases here, as well as information regarding the puppet repository (once available).
+I plan to collect announcements at [imperialwicket.com](http://imperialwicket.com/tag/netflix). I will keep an updated list of the latest releases here, as well as information regarding related repositories.
 
-## AMI releases
+### Asgard
 
-####Asgard: Ubuntu 12.04LTS -
+#### Puppet module
+
+[puppet-asgard](https://github.com/imperialwicket/puppet-asgard)
+
+#### Pre-baked AMI releases
+
+##### Asgard: Ubuntu 12.04LTS -
   - US-East (VA): ami-acadd2c5
   - US-East (VA): ami-11453178 (deprecated)
   - US-East (VA): ami-f7e28b9e (deprecated)
@@ -26,7 +32,7 @@ I plan to collect announcements at [imperialwicket.com](http://imperialwicket.co
   - US-West (OR): ami-233fae13 (deprecated)
   - US-West (OR): ami-a5c25395 (deprecated)
 
-####Asgard: Amazon Linux - 
+##### Asgard: Amazon Linux - 
   - US-East (VA): ami-90add2f9
   - US-East (VA): ami-0347336a (deprecated)
   - US-East (VA): ami-17761e7e (deprecated)
