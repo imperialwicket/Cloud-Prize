@@ -14,6 +14,10 @@ I plan to support these AMIs with puppet modules and potentially full manifests 
 
 I plan to collect announcements at [imperialwicket.com](http://imperialwicket.com/tag/netflix). I will keep an updated list of the latest releases here, as well as information regarding related repositories.
 
+### General
+
+[netflix-oss puppet manifest samples](https://github.com/imperialwicket/netflixoss-puppet-manifest-samples) - A collection of spartan manifests for using these puppet modules.
+
 ### Asgard
 
 [puppet-asgard](https://github.com/imperialwicket/puppet-asgard)
