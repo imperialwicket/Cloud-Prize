@@ -1,6 +1,6 @@
 ## Which Categories Best Fit Your Submission and Why?
 
-Best Contribution to Operational Tools, Availability, and Manageability
+Best Contribution to Operational Tools, Availability, and Manageability or Best Usability Enhancement
 
 I aim to reduce entry barriers and ease initial setup for new users. If we can collectively enhance standards and establish best practices along the way, that is even better.
 
@@ -10,7 +10,11 @@ I am generating AMIs that aim to be deploy-ready with minimal alterations by an 
 
 I plan to support these AMIs with puppet modules and potentially full manifests for generation. However, the core focus is currently puppet modules for the specific software solution and pre-baked AMIs.
 
+I am also creating Hubot scripts for interfacing with Asgard APIs via Hubot.
+
 ## Provide Links to Github Repo's for your Submission
+
+[hubot-asgard](https://github.com/imperialwicket/hubot-asgard)
 
 I plan to collect announcements at [imperialwicket.com](http://imperialwicket.com/tag/netflix). I will keep an updated list of the latest releases here, as well as information regarding related repositories.
 
