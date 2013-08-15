@@ -14,7 +14,12 @@ I am also creating Hubot scripts for interfacing with Asgard APIs via Hubot.
 
 ## Provide Links to Github Repo's for your Submission
 
+### Hubot-asgard
+
 [hubot-asgard](https://github.com/imperialwicket/hubot-asgard)
+
+Hubot-asgard is a Hubot plugin for viewing status and managing standard Asgard tasks via Hubot.
+
 
 I plan to collect announcements at [imperialwicket.com](http://imperialwicket.com/tag/netflix). I will keep an updated list of the latest releases here, as well as information regarding related repositories.
 
