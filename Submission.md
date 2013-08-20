@@ -10,7 +10,7 @@ I am generating AMIs that aim to be deploy-ready with minimal alterations by an 
 
 I plan to support these AMIs with puppet modules and potentially full manifests for generation. However, the core focus is currently puppet modules for the specific software solution and pre-baked AMIs.
 
-I am also creating Hubot scripts for interfacing with Asgard APIs via Hubot.
+I am also creating Hubot scripts for interfacing with Asgard APIs and launching Asgard (plus Asgard-complimenting) instances via Hubot.
 
 ## Provide Links to Github Repo's for your Submission
 
@@ -18,7 +18,7 @@ I am also creating Hubot scripts for interfacing with Asgard APIs via Hubot.
 
 [hubot-asgard](https://github.com/imperialwicket/hubot-asgard)
 
-Hubot-asgard is a Hubot plugin for viewing status and managing standard Asgard tasks via Hubot.
+Hubot-asgard is a Hubot plugin for viewing status and managing standard Asgard tasks via Hubot. It is bundled with asgard-launcher which supports the launch, custom ami generation, security group controls, and terminate capabilities for an Asgard instance using Amazon's [aws-sdk-js](https://github.com/aws/aws-sdk-js).
 
 
 I plan to collect announcements at [imperialwicket.com](http://imperialwicket.com/tag/netflix). I will keep an updated list of the latest releases here, as well as information regarding related repositories.
