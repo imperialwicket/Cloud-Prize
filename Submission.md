@@ -16,9 +16,12 @@ I am also creating Hubot scripts for interfacing with Asgard APIs and launching 
 
 ### Hubot-asgard
 
-[hubot-asgard](https://github.com/imperialwicket/hubot-asgard)
+ - [hubot-asgard (github)](https://github.com/imperialwicket/hubot-asgard)
+ - [hubot-asgard (npm)](https://npmjs.org/package/hubot-asgard)
 
 Hubot-asgard is a Hubot plugin for viewing status and managing standard Asgard tasks via Hubot. It is bundled with asgard-launcher which supports the launch, custom ami generation, security group controls, and terminate capabilities for an Asgard instance using Amazon's [aws-sdk-js](https://github.com/aws/aws-sdk-js).
+
+Install hubot-asgard in an existing Hubot directory by updating package.json and running `npm install`; add 'hubot-asgard' to your external-scripts.json file and you're ready to go. After configuring AWS creds for Hubot, `asgard-launcher run` starts an Asgard instance for you. More details in the project readme.
 
 
 I plan to collect announcements at [imperialwicket.com](http://imperialwicket.com/tag/netflix). I will keep an updated list of the latest releases here, as well as information regarding related repositories.
