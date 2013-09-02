@@ -16,22 +16,22 @@ I am also creating Hubot scripts for interfacing with Asgard APIs and launching 
 
 ### Hubot-asgard
 
-[hubot-asgard](https://github.com/imperialwicket/hubot-asgard)
+[Hubot-asgard intro post](http://imperialwicket.com/asgard-and-hubot-simplified-ami-deployment-to-aws)
+[hubot-asgard (github)](https://github.com/imperialwicket/hubot-asgard)
+[hubot-asgard (npm)](https://npmjs.org/package/hubot-asgard)
 
-Hubot-asgard is a Hubot plugin for viewing status and managing standard Asgard tasks via Hubot. It is bundled with asgard-launcher which supports the launch, custom ami generation, security group controls, and terminate capabilities for an Asgard instance using Amazon's [aws-sdk-js](https://github.com/aws/aws-sdk-js).
+Hubot-asgard is a Hubot plugin for viewing status and managing standard Asgard tasks via Hubot. It is bundled with asgard-launcher which supports the launch, custom ami generation, security group controls, and terminate capabilities for an Asgard instance using the Amazon [aws-sdk-js](https://github.com/aws/aws-sdk-js).
 
+
+### AMIs and Puppet Modules
 
 I plan to collect announcements at [imperialwicket.com](http://imperialwicket.com/tag/netflix). I will keep an updated list of the latest releases here, as well as information regarding related repositories.
 
-### General
-
 [netflix-oss puppet manifest samples](https://github.com/imperialwicket/netflixoss-puppet-manifest-samples) - A collection of spartan manifests for using these puppet modules.
 
-### Asgard
+#### Asgard
 
 [puppet-asgard](https://github.com/imperialwicket/puppet-asgard)
-
-#### Pre-baked AMI releases
 
 ##### Asgard: Ubuntu 12.04LTS -
   - US-East (VA): ami-acadd2c5
