@@ -24,6 +24,11 @@ Hubot-asgard is a Hubot plugin for viewing status and managing standard Asgard t
 
 Install hubot-asgard in an existing Hubot directory by updating package.json and running `npm install`; add 'hubot-asgard' to your external-scripts.json file and you're ready to go. After configuring AWS creds for Hubot, `asgard-launcher run` starts an Asgard instance for you. More details in the project readme.
 
+### Hubot-edda
+
+ - [hubot-edda (github)](https://github.com/imperialwicket/hubot-edda)
+
+Hubot-edda is a Hubot plugin for interacting with the Edda api. Hubot-edda will not be polished prior to Cloud-Prize close, but I plan to wrap most of the api and support stored field selectors and user-specific queries so that it is easy for users to get quick access to this data via Hubot.
 
 ### AMIs and Puppet Modules
 
